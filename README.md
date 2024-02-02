@@ -1,0 +1,1 @@
+# YOLOv8s-seg---Conducting-a-test-images
